@@ -142,6 +142,7 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="Injector.hpp" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Privilege.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />

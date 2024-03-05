@@ -5,3 +5,5 @@
 #include <windows.h>
 
 #include "Injector.hpp"
+#include "Privilege.hpp"
+#include <bcrypt.h>
